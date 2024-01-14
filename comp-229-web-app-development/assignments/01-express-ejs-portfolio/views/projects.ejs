@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/style.css" />
+  </head>
+  <body>
+    <%- include('partials/navbar.ejs') %>
+    <h1><%= title %></h1>
+    <% for(let i = 0; i < projects.length; i++) { %>
+    <div class="project-wrapper">
+      <div>
+        <h2><%= projects[i].title %></h2>
+        <p><%= projects[i].description %></p>
+        <ul>
+          <% for(let j = 0; j < projects[i].stacks.length; j++ ) { %>
+          <li class="styled-items"><%= projects[i].stacks[j] %></li>
+          <% } %>
+        </ul>
+        <button>
+          <a href="<%= projects[i].projectUrl %>" target="_blank"
+            >Check it on Github</a
+          >
+        </button>
+      </div>
+      <img class="project-img" src="<%= projects[i].image %>" />
+    </div>
+    <% } %> <%- include('partials/footer.ejs') %>
+  </body>
+</html>

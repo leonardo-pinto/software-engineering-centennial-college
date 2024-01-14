@@ -1,0 +1,126 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: 0;
+  min-height: 100vh;
+  position: relative;
+}
+
+h1,
+h3 {
+  text-align: center;
+}
+
+#navbar {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+ul,
+li,
+a {
+  text-decoration: none;
+  color: inherit;
+  margin-left: 10px;
+}
+
+#nav-bar-items {
+  display: flex;
+}
+
+#about-wrapper {
+  display: flex;
+}
+
+.styled-items {
+  list-style-type: square;
+  padding: 5px;
+}
+
+#services-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  bottom: 0;
+  background-color: black;
+  color: white;
+  position: fixed;
+  width: 100%;
+}
+
+footer,
+p {
+  text-align: center;
+}
+
+#contact-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#contact-wrapper,
+img {
+  padding: 15px;
+}
+
+#github-icon {
+  width: 150px;
+  height: 70px;
+}
+
+#linkedin-icon {
+  width: 180px;
+  height: 60px;
+}
+
+#email-icon {
+  width: 80px;
+  height: 70px;
+}
+
+#btn-resume-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+#btn-resume-wrapper,
+button,
+a {
+  padding: 10px;
+  margin: 0;
+}
+
+.project-img {
+  height: 250px;
+  width: 500px;
+}
+
+.project-wrapper {
+  display: flex;
+  border: 1px solid;
+  justify-content: space-between;
+  margin: 20px auto;
+  padding: 10px 15px;
+  width: 75%;
+}
+
+#mission-title {
+  margin-top: 50px;
+}
+
+#my-mission {
+  line-height: 1.5rem;
+  margin: 50px auto;
+  width: 60%;
+}

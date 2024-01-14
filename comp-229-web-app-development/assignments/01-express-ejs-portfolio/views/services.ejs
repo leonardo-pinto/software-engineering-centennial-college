@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/style.css" />
+  </head>
+  <body>
+    <%- include('partials/navbar.ejs') %>
+    <h1><%= title %></h1>
+    <div id="services-wrapper">
+      <ul>
+        <% for(let i = 0; i < services.length; i++) { %>
+        <li class="styled-items"><%= services[i] %></li>
+        <% } %>
+      </ul>
+    </div>
+    <%- include('partials/footer.ejs') %>
+  </body>
+</html>

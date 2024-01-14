@@ -1,0 +1,32 @@
+// show dbs
+
+// show collections
+
+// mongoDB lazily creates db and tables
+
+// changes db
+use <db_name>
+
+db.posts.insert({ "title": "test" })
+
+db.posts.find();
+
+db.posts.updateOne(
+    { "title": "title" }, 
+    { $set: 
+        { 
+            "title": "test", 
+            "description": "test description" 
+        }
+    }, 
+    { upsert: true } 
+)
+
+db.posts.find({ "age": { $gt: 45 }})
+
+db.posts.find({ user: { $in: ["Alice, Leonardo"]}})
+ // $or could be used to query for distinct fields
+ // while $in is better to use when querying the same field
+
+
+db.posts.remove({ "user": "Leonardo" })

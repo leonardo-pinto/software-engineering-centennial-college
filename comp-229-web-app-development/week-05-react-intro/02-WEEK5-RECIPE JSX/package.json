@@ -1,0 +1,19 @@
+{
+  "name": "recipe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Blessing",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start": "npx lite-server"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "week3demo3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node server.js"
+  },
+  "author": "Blessing",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.2.3",
+    "compression": "^1.7.4",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "jquery": "^3.7.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^7.5.3",
+    "morgan": "^1.10.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

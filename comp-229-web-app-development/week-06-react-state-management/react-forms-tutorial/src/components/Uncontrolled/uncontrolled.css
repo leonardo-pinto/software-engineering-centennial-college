@@ -1,0 +1,16 @@
+.uncontrolled {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2rem;
+}
+.uncontrolled__button {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.8rem;
+  padding: 5px 10px;
+}
+.uncontrolled__checkbox {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
