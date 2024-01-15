@@ -1,0 +1,14 @@
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+H:\Winter 2024\Programming 3\week1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

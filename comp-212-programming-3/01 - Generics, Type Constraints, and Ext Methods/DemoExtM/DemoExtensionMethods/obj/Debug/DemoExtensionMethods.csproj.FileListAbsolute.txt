@@ -1,0 +1,7 @@
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoExtensionMethods\DemoExtensionMethods\bin\Debug\DemoExtensionMethods.exe.config
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoExtensionMethods\DemoExtensionMethods\bin\Debug\DemoExtensionMethods.exe
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoExtensionMethods\DemoExtensionMethods\bin\Debug\DemoExtensionMethods.pdb
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoExtensionMethods\DemoExtensionMethods\obj\Debug\DemoExtensionMethods.csprojAssemblyReference.cache
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoExtensionMethods\DemoExtensionMethods\obj\Debug\DemoExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoExtensionMethods\DemoExtensionMethods\obj\Debug\DemoExtensionMethods.exe
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoExtensionMethods\DemoExtensionMethods\obj\Debug\DemoExtensionMethods.pdb

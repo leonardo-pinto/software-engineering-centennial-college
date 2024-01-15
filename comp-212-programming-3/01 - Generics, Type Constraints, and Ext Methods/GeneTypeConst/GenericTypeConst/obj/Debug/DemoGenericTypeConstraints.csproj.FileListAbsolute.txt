@@ -1,0 +1,7 @@
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoGenericTypeConstraints\DemoGenericTypeConstraints\bin\Debug\DemoGenericTypeConstraints.exe.config
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoGenericTypeConstraints\DemoGenericTypeConstraints\bin\Debug\DemoGenericTypeConstraints.exe
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoGenericTypeConstraints\DemoGenericTypeConstraints\bin\Debug\DemoGenericTypeConstraints.pdb
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoGenericTypeConstraints\DemoGenericTypeConstraints\obj\Debug\DemoGenericTypeConstraints.csprojAssemblyReference.cache
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoGenericTypeConstraints\DemoGenericTypeConstraints\obj\Debug\DemoGenericTypeConstraints.csproj.CoreCompileInputs.cache
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoGenericTypeConstraints\DemoGenericTypeConstraints\obj\Debug\DemoGenericTypeConstraints.exe
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#8\Examples\DemoGenericTypeConstraints\DemoGenericTypeConstraints\obj\Debug\DemoGenericTypeConstraints.pdb
