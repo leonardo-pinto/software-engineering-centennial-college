@@ -1,0 +1,7 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_13\StackInheritanceLibrary\StackInheritanceLibrary\bin\Debug\StackInheritanceLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_13\StackInheritanceLibrary\StackInheritanceLibrary\bin\Debug\StackInheritanceLibrary.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_13\StackInheritanceLibrary\StackInheritanceLibrary\bin\Debug\LinkedListLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_13\StackInheritanceLibrary\StackInheritanceLibrary\bin\Debug\LinkedListLibrary.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_13\StackInheritanceLibrary\StackInheritanceLibrary\obj\Debug\StackInheritanceLibrary.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_13\StackInheritanceLibrary\StackInheritanceLibrary\obj\Debug\StackInheritanceLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_13\StackInheritanceLibrary\StackInheritanceLibrary\obj\Debug\StackInheritanceLibrary.pdb

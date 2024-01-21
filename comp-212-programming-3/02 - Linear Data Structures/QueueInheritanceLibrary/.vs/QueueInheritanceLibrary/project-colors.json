@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f79722a-1337-4805-98a0-edaea44d3d93": {
+      "ProjectGuid": "0f79722a-1337-4805-98a0-edaea44d3d93",
+      "DisplayName": "QueueInheritanceLibrary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

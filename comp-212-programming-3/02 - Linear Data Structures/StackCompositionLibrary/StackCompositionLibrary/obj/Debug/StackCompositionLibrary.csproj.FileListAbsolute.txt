@@ -1,0 +1,16 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\bin\Debug\StackCompositionLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\bin\Debug\StackCompositionLibrary.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\bin\Debug\LinkedListLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\bin\Debug\LinkedListLibrary.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\obj\Debug\StackCompositionLibrary.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\obj\Debug\StackCompositionLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\obj\Debug\StackCompositionLibrary.pdb
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\bin\Debug\StackCompositionLibrary.dll
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\bin\Debug\StackCompositionLibrary.pdb
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\bin\Debug\LinkedListLibrary.dll
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\bin\Debug\LinkedListLibrary.pdb
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\obj\Debug\StackCompositionLibrary.csproj.AssemblyReference.cache
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\obj\Debug\StackCompositionLibrary.csproj.CoreCompileInputs.cache
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\obj\Debug\StackCompositionLibrary.csproj.CopyComplete
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\obj\Debug\StackCompositionLibrary.dll
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_15\StackCompositionLibrary\StackCompositionLibrary\obj\Debug\StackCompositionLibrary.pdb

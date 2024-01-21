@@ -1,0 +1,14 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.pdb
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#1\ch19\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.dll
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#1\ch19\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.pdb
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#1\ch19\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.dll
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#1\ch19\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.pdb
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.dll
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.pdb
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.csproj.AssemblyReference.cache
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.csproj.CoreCompileInputs.cache
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.dll
+C:\GitHub\COMP212_Examples\Week02\ch19\ch19\Fig19_04\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.pdb
